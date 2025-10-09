@@ -166,6 +166,12 @@
 		/obj/item/trash/pljeskavica = 1,
 		/obj/item/trash/nachos = 1,
 		/obj/item/trash/blins = 1,
+		/obj/item/trash/empty_food_tray = 1,
+		/obj/item/trash/empty_side_pack = 1,
+		/obj/item/trash/empty_side_pack/nt = 1,
+		/obj/item/trash/empty_side_pack/yangyu = 1,
+		/obj/item/trash/empty_side_pack/moth = 1,
+		/obj/item/trash/empty_side_pack/tizira = 1,
 		// BUBBER EDIT - ADDITION - END
 	)
 
