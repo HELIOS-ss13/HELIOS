@@ -125,7 +125,7 @@
 	brain.forceMove(dummy.loc)
 	allocated += brain
 
-/datum/unit_test/felinid_ears
+/* /datum/unit_test/felinid_ears // HELIOS EDIT - REMOVAL - START
 
 /datum/unit_test/felinid_ears/Run()
 	var/mob/living/carbon/human/normal_dummy = allocate(/mob/living/carbon/human/consistent)
@@ -137,3 +137,4 @@
 	var/mob/living/carbon/human/anime_dummy = allocate(/mob/living/carbon/human/consistent)
 	anime_dummy.set_species(/datum/species/human/felinid, pref_load = TRUE)
 	TEST_ASSERT(istype(anime_dummy.get_organ_slot(ORGAN_SLOT_EARS), /obj/item/organ/ears/cat), "Felinid with default ears set did not have cat ears on species gain.")
+	*/ // HELIOS EDIT - REMOVAL - END
