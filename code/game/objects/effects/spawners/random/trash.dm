@@ -152,7 +152,8 @@
 		/obj/item/popsicle_stick = 1,
 		/obj/item/trash/ready_donk = 1,
 		/obj/item/trash/tray = 1,
-		/obj/item/trash/can/food/tuna = 1, // BUBBER EDIT - ADDITION - START
+		// BUBBER EDIT - ADDITION - START
+		/obj/item/trash/can/food/tuna = 1,
 		/obj/item/trash/candy/hundred_credit_bar = 1,
 		/obj/item/trash/candy/coconut_joy = 1,
 		/obj/item/trash/candy/hurr_bar = 1,
@@ -161,7 +162,11 @@
 		/obj/item/trash/candy/twink_bar = 1,
 		/obj/item/trash/candy/elon_musk_bar = 1,
 		/obj/item/trash/candy/malf_way = 1,
-		/obj/item/trash/candy/triggerfinger = 1, // BUBBER EDIT - ADDITION - END
+		/obj/item/trash/candy/triggerfinger = 1,
+		/obj/item/trash/pljeskavica = 1,
+		/obj/item/trash/nachos = 1,
+		/obj/item/trash/blins = 1,
+		// BUBBER EDIT - ADDITION - END
 	)
 
 /obj/effect/spawner/random/trash/botanical_waste
