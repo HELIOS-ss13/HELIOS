@@ -107,7 +107,6 @@ Unlike normal organs, we're actually inside a persons limbs at all times
 	zone = BODY_ZONE_HEAD
 	slot = ORGAN_SLOT_EXTERNAL_HORNS
 
-	preference = "feature_lizard_horns"
 	//dna_block = /datum/dna_block/feature/horn // SKYRAT EDIT REMOVAL - Customization - We have our own system to handle DNA.
 	restyle_flags = EXTERNAL_RESTYLE_ENAMEL
 
@@ -135,7 +134,6 @@ Unlike normal organs, we're actually inside a persons limbs at all times
 	zone = BODY_ZONE_HEAD
 	slot = ORGAN_SLOT_EXTERNAL_FRILLS
 
-	preference = "feature_lizard_frills"
 	//dna_block = /datum/dna_block/feature/frill // SKYRAT EDIT REMOVAL - Customization - We have our own system to handle DNA.
 	restyle_flags = EXTERNAL_RESTYLE_FLESH
 
@@ -190,7 +188,6 @@ Unlike normal organs, we're actually inside a persons limbs at all times
 	zone = BODY_ZONE_HEAD
 	slot = ORGAN_SLOT_EXTERNAL_ANTENNAE
 
-	preference = "feature_moth_antennae"
 	//dna_block = /datum/dna_block/feature/moth_antenna // SKYRAT EDIT REMOVAL - Customization - We have our own system to handle DNA.
 	restyle_flags = EXTERNAL_RESTYLE_FLESH
 
