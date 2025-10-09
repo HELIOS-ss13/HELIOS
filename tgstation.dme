@@ -9073,7 +9073,6 @@
 #include "modular_zubbers\code\game\objects\effects\effects_system\effect_sparks.dm"
 #include "modular_zubbers\code\game\objects\effects\spawners\random\armory.dm"
 #include "modular_zubbers\code\game\objects\effects\spawners\random\moonstation_random.dm"
-#include "modular_zubbers\code\game\objects\effects\spawners\random\trash.dm"
 #include "modular_zubbers\code\game\objects\effects\spawners\random\vending.dm"
 #include "modular_zubbers\code\game\objects\items\abductor.dm"
 #include "modular_zubbers\code\game\objects\items\bulldog.dm"
