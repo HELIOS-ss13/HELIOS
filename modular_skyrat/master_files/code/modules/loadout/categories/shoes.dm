@@ -207,7 +207,7 @@
 
 /datum/loadout_item/shoes/kim
 	name = "Aerostatic Shoes"
-	item_path = /obj/item/clothing/shoes/kim
+	item_path = /obj/item/clothing/shoes/kimshoes
 
 /datum/loadout_item/shoes/dominaheels
 	name = "Dominant Heels"
