@@ -1591,7 +1591,7 @@ GLOBAL_LIST_EMPTY(features_by_species)
 	return get_organs(FALSE)
 
 /*
-/datum/species/proc/get_mut_organs(include_brain = TRUE)
+/datum/species/proc/get_organs(include_brain = TRUE)
 	var/list/mut_organs = list()
 	mut_organs += mutant_organs
 	if (include_brain)
@@ -1609,7 +1609,7 @@ GLOBAL_LIST_EMPTY(features_by_species)
 
 
 /datum/species/proc/get_types_to_preload()
-	return get_mut_organs(FALSE)
+	return get_organs(FALSE)
 */ // BUBBER EDIT - OR END
 
 /**
