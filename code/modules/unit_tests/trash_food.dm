@@ -21,7 +21,8 @@
 		/obj/item/stack/rods, // kebab
 		/obj/item/paper/paperslip/fortune, // fortune cookie
 		/obj/item/dice/fudge, // /obj/item/food/fudgedice
-		/obj/item/stack/sheet/mineral/sandfruitcore, // BUBBER ADDITION - START
+		// BUBBER ADDITION - START
+		/obj/item/stack/sheet/mineral/sandfruitcore,
 		/obj/item/stack/sheet/mineral/uraniberrycore,
 		/obj/item/stack/sheet/mineral/plasmaplumcore,
 		/obj/item/stack/sheet/mineral/bluegemdrupecore,
@@ -32,7 +33,8 @@
 		/obj/item/stack/sheet/mineral/titanitubercore,
 		/obj/item/stack/sheet/mineral/adamapplecore,
 		/obj/item/stack/sheet/mineral/runescoopercore,
-		/obj/item/stack/sheet/mineral/bananiumberrycore, // BUBBER ADDITION - END
+		/obj/item/stack/sheet/mineral/bananiumberrycore,
+		// BUBBER ADDITION - END
 	)
 
 	for(var/path in subtypesof(/obj/item/food))
