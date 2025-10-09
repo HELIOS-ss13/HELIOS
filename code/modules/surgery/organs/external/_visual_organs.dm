@@ -7,8 +7,6 @@ Unlike normal organs, we're actually inside a persons limbs at all times
 	///The overlay datum that actually draws stuff on the limb
 	var/datum/bodypart_overlay/mutant/bodypart_overlay
 
-	/// The savefile_key of the preference this relates to. Used for the preferences UI.
-	var/preference
 	///With what DNA block do we mutate in mutate_feature() ? For genetics
 	var/datum/dna_block/dna_block
 
@@ -164,7 +162,6 @@ Unlike normal organs, we're actually inside a persons limbs at all times
 	zone = BODY_ZONE_HEAD
 	slot = ORGAN_SLOT_EXTERNAL_SNOUT
 
-	preference = "feature_lizard_snout"
 	external_bodyshapes = BODYSHAPE_SNOUTED
 
 	//dna_block = /datum/dna_block/feature/snout // SKYRAT EDIT REMOVAL - Customization - We have our own system to handle DNA.
@@ -282,7 +279,6 @@ Unlike normal organs, we're actually inside a persons limbs at all times
 	zone = BODY_ZONE_HEAD
 	slot = ORGAN_SLOT_EXTERNAL_POD_HAIR
 
-	preference = "feature_pod_hair"
 	use_mob_sprite_as_obj_sprite = TRUE
 
 	//dna_block = /datum/dna_block/feature/pod_hair // BUBBER EDIT REMOVAL - We have our own system for handling DNA

@@ -162,7 +162,6 @@
 
 /obj/item/organ/tail/cat
 	name = "tail"
-	preference = "feature_human_tail"
 
 	bodypart_overlay = /datum/bodypart_overlay/mutant/tail/cat
 	restyle_flags = EXTERNAL_RESTYLE_FLESH
@@ -185,7 +184,6 @@
 
 /obj/item/organ/tail/monkey
 	name = "monkey tail"
-	preference = "feature_monkey_tail"
 	icon_state = "severedmonkeytail"
 	dna_block = null
 	bodypart_overlay = /datum/bodypart_overlay/mutant/tail/monkey
@@ -257,7 +255,6 @@
 /obj/item/organ/tail/lizard
 	name = "lizard tail"
 	desc = "A severed lizard tail. Somewhere, no doubt, a lizard hater is very pleased with themselves."
-	preference = "feature_lizard_tail"
 
 	bodypart_overlay = /datum/bodypart_overlay/mutant/tail/lizard
 
