@@ -172,6 +172,12 @@
 		/obj/item/trash/empty_side_pack/yangyu = 1,
 		/obj/item/trash/empty_side_pack/moth = 1,
 		/obj/item/trash/empty_side_pack/tizira = 1,
+		/obj/item/trash/vendor_trash/rice_crackers = 1,
+		/obj/item/trash/vendor_trash/mochi_ice_cream = 1,
+		/obj/item/trash/vendor_trash/mothmallow = 1,
+		/obj/item/trash/vendor_trash/moth_bag = 1,
+		/obj/item/trash/vendor_trash/lizard_bag = 1,
+		/obj/item/trash/vendor_trash/lizard_box = 1,
 		// BUBBER EDIT - ADDITION - END
 	)
 

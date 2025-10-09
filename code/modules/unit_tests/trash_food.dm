@@ -34,6 +34,7 @@
 		/obj/item/stack/sheet/mineral/adamapplecore,
 		/obj/item/stack/sheet/mineral/runescoopercore,
 		/obj/item/stack/sheet/mineral/bananiumberrycore,
+		/obj/item/trash/vendor_trash,
 		// BUBBER ADDITION - END
 	)
 
