@@ -125,7 +125,8 @@
 	brain.forceMove(dummy.loc)
 	allocated += brain
 
-/* /datum/unit_test/felinid_ears // HELIOS EDIT - REMOVAL - START
+/* // HELIOS EDIT - REMOVAL - START
+/datum/unit_test/felinid_ears
 
 /datum/unit_test/felinid_ears/Run()
 	var/mob/living/carbon/human/normal_dummy = allocate(/mob/living/carbon/human/consistent)
